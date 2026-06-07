@@ -8,7 +8,7 @@ A comparative analysis of pure deep learning vs hybrid deep learning + machine l
 
 ![Model Performance Comparison](assets/Accuracy.png)
 
-![Ranked Results](assets/Ranking.png)
+
 
 ---
 
